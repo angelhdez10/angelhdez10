@@ -13,7 +13,7 @@
 - 📫 Como contactarme:
     - Telefono : 353-106-3462
     - Email : angelhdez416@gmail.com
-    - Linkedin: https://www.linkedin.com/in/jose-angel-hernandez-arredondo/
+    - Linkedin: https://www.linkedin.com/in/joseangelha/
 <!---
 angelhdez10/angelhdez10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
