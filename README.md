@@ -6,8 +6,9 @@
 ### Proyectos: 
 - En el bootcamp de Henry he adquirido un nivel de conocimientos tales que realice un proyecto individual con el stack PERN donde se implemento un CRUD, en este proyecto aprendí en profundidad el manejo de estados de react, las peticiones HTTP y el uso de React-Redux para implementar un SPA
   > Deploy del proyecto: https://pokemons-spa.herokuapp.com/
- - Actualmente estoy colaborando en el Back-end de un proyecto grupal el cual trata sobre el trading de Criptomonedas, apoyandonos de la API Binance para sacar precios sobre los pares de las monedas
+ - Actualmente estoy colaborando en el Back-end de un proyecto grupal el cual trata sobre el trading de Criptomonedas, apoyandonos de la API Binance para consultar precios sobre los pares de las monedas, donde tambien se pueden realizar suscripciones a los pares y setear alertas en relacion al precio del par para que cuando se cumpla esa alerta se te notifique mediante un correo electrónico. 
  > Repositorio del proyecto : https://github.com/jghm96/PF-API
+ > Deply del proyecto: https://pf-client.herokuapp.com/
 ---
 - 📫 Como contactarme:
     - Telefono : 353-106-3462
